@@ -21,7 +21,7 @@ The repository is organized as follows:
 Ensure all dependencies are installed as specified in each script's header. All analyses are designed for execution on Linux systems.
 
 ## License
-This project is available under the Apache-2.0 License. For more information, see the [LICENSE](./LICENSE) file.
+For more information, see the [LICENSE](./LICENSE) file.
 
 ## Contact
 For further inquiries, please contact us via github or our [website](https://www.igb.fraunhofer.de/en/research/in-vitro-diagnostics.html).
