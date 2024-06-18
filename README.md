@@ -10,12 +10,12 @@ We introduce a method for enriching short double-stranded cfDNA, approximately 4
 
 ## Contents
 The repository is organized as follows:
-1. **Data Processing:** Scripts for preprocessing, mapping, and postprocessing of short cfDNA sequencing data. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/map_and_process) - "Sequencing data processing"
-2. **Peak Calling:** Methods for identifying significant peaks in DNA footprints. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/peak_calling) - "Peak calling"
-3. **Motif Enrichment:** Analysis of transcription factor motifs within short double-stranded cfDNA. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/transcription_factor_motif_analyses) - "Transcription factor motif enrichment analysis"
-4. **NFR Calling:** Identification of nucleosome-free regions from regular cfDNA. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/nucleosome_free_regions) - "Nucleosome-free region calling"
-5. **Visualization:** Scripts for generating cumulative coverage profiles and heatmaps. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/average_coverage_analyses) - "Average coverage profiles and heatmaps"
-6. **Composite Analysis:** Examining the effects of DNA methylation and short double-stranded cfDNA signals on gene transcription. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/composite_effects_short_methyl) - "Composite effect of DNA methylation and DNA footprint signals on gene transcription"
+1. **Data Processing (map_and_process):** Script for preprocessing, mapping, and postprocessing of short cfDNA sequencing data. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/map_and_process) - "Sequencing data processing"
+2. **Peak Calling (peak_calling):** Script for identifying significant peaks in DNA footprints. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/peak_calling) - "Peak calling"
+3. **Motif Enrichment (transcription_factor_motif_analyses):** Analysis of transcription factor motifs within short double-stranded cfDNA. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/transcription_factor_motif_analyses) - "Transcription factor motif enrichment analysis"
+4. **NFR Calling (nucleosome_free_regions):** Identification of nucleosome-free regions from regular cfDNA. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/nucleosome_free_regions) - "Nucleosome-free region calling"
+5. **Visualization (average_coverage_analyses):** Script for generating cumulative coverage profiles and heatmaps. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/average_coverage_analyses) - "Average coverage profiles and heatmaps"
+6. **Composite Analysis (composite_effects_short_methyl):** Examining the effects of DNA methylation and short double-stranded cfDNA signals on gene transcription. [View](https://github.com/janmueller17/short_ds_cfDNA/tree/main/composite_effects_short_methyl) - "Composite effect of DNA methylation and DNA footprint signals on gene transcription"
 
 ## Usage
 Ensure all dependencies are installed as specified in each script's header. All analyses are designed for execution on Linux systems.
