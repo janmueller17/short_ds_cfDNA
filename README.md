@@ -3,7 +3,7 @@
 # short_ds_cfDNA: DNA footprinting using short double-stranded cell-free DNA from plasma
 
 ## Introduction
-This repository features custom scripts and workflows for the study described in the manuscript: [A novel approach for DNA footprinting using short double-stranded cell-free DNA from plasma](https://www.biorxiv.org/content/10.1101/2024.02.09.579588v1.full). It provides tools for analyzing short double-stranded cfDNA fragments enriched from human plasma and reproduction of results in the manuscript.
+This repository features custom scripts and workflows for the study described in the manuscript: [A novel approach for DNA footprinting using short double-stranded cell-free DNA from plasma](https://genome.cshlp.org/content/34/8/1185.full). It provides tools for analyzing short double-stranded cfDNA fragments enriched from human plasma and reproduction of results in the manuscript.
 
 ## Abstract
 We introduce a method for enriching short double-stranded cfDNA, approximately 40 base pairs in length, from cfDNA for high-throughput DNA sequencing. These cfDNA fragments, enriched at regulatory genomic loci and transcription factor binding sites, enable genome-wide DNA footprinting from liquid biopsies. Our findings reveal significant enrichment of transcription factor motifs and correlations with DNA methylation, histone modifications, and gene transcription, as well as the basic demonstration of the diagnostic potential of short double-stranded cfDNA in disease differentiation via liquid biopsies.
